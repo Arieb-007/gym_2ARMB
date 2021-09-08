@@ -66,3 +66,8 @@ You can get the results by directly running the code below <br />
 	
    
 ```
+
+```
+reward_matrix = array([[299863., 150228.],
+       [       199585., 350324.]])
+```
