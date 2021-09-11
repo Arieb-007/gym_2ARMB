@@ -23,7 +23,8 @@ gym_2RMB/
 
 		
 ```
-         from gym_2ARMB import B_Bandit 
+         from gym_2ARMB.BB2ARM import B_Bandit 
+	 
 	 import numpy as np
          episodes = 1000000  #no of episodes
          action_space = 2
