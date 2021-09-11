@@ -3,7 +3,7 @@ from gym import error, spaces, utils
 from gym.utils import seeding
 import numpy as np
 
-class B_Bandit:
+class B_Bandit(gym.Env):
      def __init__(self,alpha,beta):
         self.alpha = alpha
         self.beta = beta 
