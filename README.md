@@ -7,7 +7,17 @@ you can try with (α, β) = (0, 0),(1, 0),(0, 1),(1, 1),(0.5, 0.5), etc. Report 
 they point towards the correct implementation. You can also report about your general observations.<\br>
 You can get the results by directly running the code below <br />
 
+```
+gym_2RMB/
+  README.md
+  setup.py
+  gym_2ARMB/
+    __init__.py
+    envs/
+      __init__.py
+      
 
+```
 
 
 		
